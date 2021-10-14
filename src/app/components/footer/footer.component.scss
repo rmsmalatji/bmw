@@ -1,0 +1,11 @@
+.footer {
+  position: relative;
+  top:100px;
+  background-color: grey;
+
+  > div > a {
+    padding-left:8px;
+    padding-right:8px;
+    color:White;
+  }
+}

@@ -1,1 +1,110 @@
-<p>body works!</p>
+<div class="container bmw-main-container">
+  <div class="bmw-carousel bmw-box">
+    <div class="bmw-item">
+      <ngb-carousel *ngIf="images">
+        <ng-template ngbSlide>
+          <div class="wrapper">
+            <img [src]="images[0]" alt="M5">
+          </div>
+          <div class="buttons bmw-informed">
+            <button class="button is-link">Keep me informed</button>
+          </div>
+        </ng-template>
+        <ng-template ngbSlide>
+          <div class="wrapper">
+            <img [src]="images[1]" alt="X4">
+          </div>
+          <div class="buttons bmw-informed">
+            <button class="button is-link">Keep me informed</button>
+          </div>
+        </ng-template>
+
+      </ngb-carousel>
+    </div>
+
+  </div>
+
+  </div>
+
+  <div class="bmw-containter bmw-box bmw-form">
+    <div class="field">
+      <label class="label">Title</label>
+      <div class="control">
+        <div class="select">
+          <select>
+            <option>Mr</option>
+            <option>Mrs</option>
+          </select>
+        </div>
+      </div>
+    </div>
+      <div class="field">
+        <label class="label">Name</label>
+        <div class="control">
+          <input class="input" type="text" placeholder="Text input">
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label">Surname</label>
+        <div class="control">
+          <input class="input" type="text" placeholder="Text input">
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label">Email</label>
+        <div class="control has-icons-left has-icons-right">
+          <input class="input" type="email" placeholder="Email input">
+          <span class="icon is-small is-left">
+            <i class="fas fa-envelope"></i>
+          </span>
+          <span class="icon is-small is-right">
+            <i class="fas fa-exclamation-triangle"></i>
+          </span>
+        </div>
+
+      </div>
+
+
+
+      <div class="field">
+        <label class="label">Message</label>
+        <div class="control">
+          <textarea class="textarea" placeholder="Textarea"></textarea>
+        </div>
+      </div>
+
+      <div class="field">
+        <div class="control">
+          <label class="checkbox">
+            <input type="checkbox">
+            I agree to the <a href="#">terms and conditions</a>
+          </label>
+        </div>
+      </div>
+
+      <div class="field">
+        <div class="control">
+          <label class="radio">
+            <input type="radio" name="question">
+            Yes
+          </label>
+          <label class="radio">
+            <input type="radio" name="question">
+            No
+          </label>
+        </div>
+      </div>
+
+      <div class="field is-grouped">
+        <div class="control">
+          <button class="button is-link">Submit</button>
+        </div>
+        <div class="control">
+          <button class="button is-link is-light">Cancel</button>
+        </div>
+      </div>
+
+
+  </div>

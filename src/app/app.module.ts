@@ -5,16 +5,22 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavComponent } from './src/nav/nav.component';
 import { BodyComponent } from './src/body/body.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { IvyCarouselModule } from 'angular-responsive-carousel';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
-    BodyComponent
+    BodyComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    IvyCarouselModule,
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]

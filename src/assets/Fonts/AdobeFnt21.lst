@@ -1,0 +1,135 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/Daten/Projekte_V2/BMW_GROUP/BMW_GROUP_CI/Templates/_Templates/_Templates-Next/BMW/BMW_advertisement_templates/Document fonts/AdobeFnt21.lst
+FileLength:3588
+FileModTime:605722431
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BMWGroupCondensed-Bold
+FamilyName:BMW Group Condensed
+StyleName:Bold
+MenuName:BMW Group Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:BMW Group Condensed Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/Daten/Projekte_V2/BMW_GROUP/BMW_GROUP_CI/Templates/_Templates/_Templates-Next/BMW/BMW_advertisement_templates/Document fonts/BMWGroup_Cond_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61512
+FileModTime:605722421
+NameArray:0,Mac,4,BMW Group Condensed Bold
+NameArray:0,Win,1,BMW Group Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BMWGroupCondensed-Regular
+FamilyName:BMW Group Condensed
+StyleName:Regular
+MenuName:BMW Group Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:BMW Group Condensed
+WritingScript:Roman
+OutlineFileName:/Volumes/Daten/Projekte_V2/BMW_GROUP/BMW_GROUP_CI/Templates/_Templates/_Templates-Next/BMW/BMW_advertisement_templates/Document fonts/BMWGroup_Cond_Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59396
+FileModTime:605722421
+NameArray:0,Mac,4,BMW Group Condensed Regular
+NameArray:0,Win,1,BMW Group Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BMWTypeNext-Bold
+FamilyName:BMWTypeNext
+StyleName:Bold
+MenuName:BMWTypeNext Bold
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:BMWTypeNext Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/Daten/Projekte_V2/BMW_GROUP/BMW_GROUP_CI/Templates/_Templates/_Templates-Next/BMW/BMW_advertisement_templates/Document fonts/BMWTypeNext-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95296
+FileModTime:605722421
+NameArray:0,Mac,4,BMWTypeNext Bold
+NameArray:0,Win,1,BMWTypeNext Bold
+NameArray:0,Win,16,BMWTypeNext
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BMWTypeNext-Light
+FamilyName:BMWTypeNext
+StyleName:Light
+MenuName:BMWTypeNext Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:BMWTypeNext Light
+WritingScript:Roman
+OutlineFileName:/Volumes/Daten/Projekte_V2/BMW_GROUP/BMW_GROUP_CI/Templates/_Templates/_Templates-Next/BMW/BMW_advertisement_templates/Document fonts/BMWTypeNext-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87736
+FileModTime:605722421
+NameArray:0,Mac,4,BMWTypeNext Light
+NameArray:0,Win,1,BMWTypeNext Light
+NameArray:0,Win,16,BMWTypeNext
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BMWTypeNext-Regular
+FamilyName:BMWTypeNext
+StyleName:Regular
+MenuName:BMWTypeNext Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:BMWTypeNext Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/Daten/Projekte_V2/BMW_GROUP/BMW_GROUP_CI/Templates/_Templates/_Templates-Next/BMW/BMW_advertisement_templates/Document fonts/BMWTypeNext-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93108
+FileModTime:605722421
+NameArray:0,Mac,4,BMWTypeNext Regular
+NameArray:0,Win,1,BMWTypeNext Regular
+NameArray:0,Win,16,BMWTypeNext
+%EndFont
+
