@@ -19,6 +19,8 @@ ngb-carousel .wrapper>img {
 }
 .bmw-main-container {
   height: 600px;
+  position: relative;
+  top:-84px;
 }
 
 .bmw-form {
@@ -36,5 +38,66 @@ ngb-carousel .wrapper>img {
 .bmw-informed {
   position: absolute;
   top: 0;
+  display: flex;
+  flex-direction: column;
+  margin:36px 0 0 36px;
+  align-items: flex-start;
+}
 
+.online-chat {
+  display: flex;
+    background: none;
+    justify-content: center;
+    z-index: 999999999;
+    width: 95%;
+    position: relative;
+    top: 160px;
+    align-items: flex-end;
+
+}
+
+.chat-link {
+  transform: rotate(90deg);
+}
+
+.field {
+
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+
+.control, .select select {
+  width:320px;
+}
+
+.submit-btn {
+  width:170px;
+}
+
+
+h2, h4 {
+  color: black;
+  font-weight: 600;
+}
+
+.bmw-main-container-2 {
+  width:50%;
+  position: relative;
+  top: -120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.img-container {
+  width: 360px;
+  flex: 50%;
+}
+
+.secondary-banners {
+  display: flex;
+  justify-content: center;
 }
